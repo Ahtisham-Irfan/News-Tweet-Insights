@@ -1,0 +1,10 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+textblob==0.18.0.post0
+snscrape==0.7.0.20230622
+pandas==2.2.2
+streamlit==1.36.0
+wordcloud==1.9.3
+matplotlib==3.9.0
+pytest==8.2.2
